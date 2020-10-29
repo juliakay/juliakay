@@ -7,8 +7,8 @@
 
 📕 Current reading "Naked Statistics" and "Sapiens"  
 🤯 Currently working on classifying unbalanced data sets  
-🌱 Currently learning about Ruleset vs Decision Trees  
 🍽 Currently cooking Hokkaido Milk Bread   
+📸 And always blinking in photos
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kang-julia/)
