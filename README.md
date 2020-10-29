@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hellur 👋
 
 <!--
 **juliakay/juliakay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+📕 Current reading "Naked Statistics" and "Sapiens"  
+🤯 Currently working on classifying unbalanced data sets  
+🌱 Currently learning about Ruleset vs Decision Trees  
+🍽 Currently cooking Hokkaido Milk Bread   
+
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kang-julia/)
