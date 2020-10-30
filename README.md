@@ -13,4 +13,4 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kang-julia/)
 
-![](https://komarev.com/ghpvc/?username=juliakay&label=BAGELS+EATTEN&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=juliakay&label=DONUTS+EATTEN&color=ff69b4)
